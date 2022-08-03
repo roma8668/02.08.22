@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\bin\Debug\net6.0\z001.exe
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\bin\Debug\net6.0\z001.deps.json
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\bin\Debug\net6.0\z001.runtimeconfig.json
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\bin\Debug\net6.0\z001.dll
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\bin\Debug\net6.0\z001.pdb
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\obj\Debug\net6.0\z001.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\obj\Debug\net6.0\z001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\obj\Debug\net6.0\z001.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\obj\Debug\net6.0\z001.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\obj\Debug\net6.0\z001.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\obj\Debug\net6.0\z001.dll
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\obj\Debug\net6.0\refint\z001.dll
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\obj\Debug\net6.0\z001.pdb
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\obj\Debug\net6.0\z001.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\lern 02.08\lesson_02.08\z001\obj\Debug\net6.0\ref\z001.dll
